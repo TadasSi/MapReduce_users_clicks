@@ -1,0 +1,12 @@
+{
+  "input": {
+    "input_clicks": "C:\\tmp\\data\\clicks\\",
+    "input_users": "C:\\tmp\\data\\users\\",
+    "parallelism_number": "",
+    "country": "LT"
+  },
+  "output": {
+    "output_total_clicks": "C:\\tmp\\data\\total_clicks\\",
+    "output_filtered_clicks": "C:\\tmp\\data\\filtered_clicks\\"
+  }
+}
